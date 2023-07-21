@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joas</h1>
 <h3 align="center">A Dedicated AI/NLP Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif">
 
 <p align="left"> <a href="https://twitter.com/pontonkid" target="blank"><img src="https://img.shields.io/twitter/follow/pontonkid?logo=twitter&style=for-the-badge" alt="pontonkid" /></a> </p>
 
