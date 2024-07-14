@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/pontonkid" target="blank"><img src="https://img.shields.io/twitter/follow/pontonkid?logo=twitter&style=for-the-badge" alt="pontonkid" /></a> </p>
 
-- 🌱 I’m currently learning **NLP, Langchain, LLMops,**
+- 🌱 I’m currently learning : **NLP, Langchain, LLMops,**
 
-- 👨‍💻 All of my projects are available at [https://huggingface.co/Pontonkid](https://huggingface.co/Pontonkid)
+- 👨‍💻 All of my projects are available at : [https://huggingface.co/Pontonkid](https://huggingface.co/Pontonkid)
 
 - 💬 Ask me about **AI, NLP, LLMs**
 
-- 📫 How to reach me **joaspambou@gmail.com**
+- 📫 How to reach me :**joaspambou@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
